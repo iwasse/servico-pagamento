@@ -1,4 +1,4 @@
-import assert from 'assert';
+import assert from 'node:assert';
 import mocha from 'mocha';
 import ServicoPagamento from '../src/servicoPagamento.js'
 

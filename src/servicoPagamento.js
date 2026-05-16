@@ -1,5 +1,3 @@
-
-
 class ServicoPagamento {
     constructor() {
         this.pagamentos = [];
