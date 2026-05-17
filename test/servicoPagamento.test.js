@@ -1,6 +1,5 @@
 import assert from 'assert';
-// The 'mocha' import is often unnecessary as 'describe', 'it', etc., are globals provided by the runner.
-// import mocha from 'mocha';
+
 import ServicoPagamento from '../src/servicoPagamento.js'
 
 describe('Testes da classe ServicoPagamento', function() {
